@@ -53,7 +53,7 @@ From scalable **NestJS** backends to pixel-perfect **Flutter** apps and containe
 - 🌐 [parivartanx.com](https://parivartanx.com)
 - 🌐 [hamaraticket.com](https://hamaraticket.com)
 - 📧 vikash.personal15@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/vikash-kumar-8a0807227)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/vikash-kumar-96678928a/)
 - 🧑‍💻 GitHub: [@chiggosVikash](https://github.com/chiggosVikash)
 
 ---
