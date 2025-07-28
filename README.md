@@ -59,9 +59,20 @@ From scalable **NestJS** backends to pixel-perfect **Flutter** apps and containe
 
 ---
 
-## ✨ GitHub Stats
+### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiggosVikash&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chiggosVikash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Vikash's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=chiggosVikash&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiggosVikash&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
 
 ---
 
