@@ -32,9 +32,10 @@ From scalable **NestJS** backends to pixel-perfect **Flutter** apps and containe
 
 - 🎟️ **[HamaraTicket](https://hamaraticket.com)** – Online ticket booking app (Flutter + NestJS + PostgreSQL)
 - 🎓 **[UIDMT](https://uidmt.com)** – A powerful LMS platform for institutions and coaching centers
-- 🛍️ **DPBazaar** – E-commerce + affiliate platform (mobile + web)
+- 🛍️ **[PoojaKaro.app](https://poojakaro.app)** – Pooja and Astrology Booking (mobile + web)
 - 🌊 **Waterpark Management Software** – SaaS product for bookings and operations
 - 🛒 **Dehat Fresh** – Grocery delivery + management platform with inventory, orders, and user management
+- 🛍️ **[2gather](https://www.2gather.in/)** - Hyperlocal application and event management app
 
 ---
 
