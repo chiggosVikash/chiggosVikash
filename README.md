@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Vikash Kumar
 
-### 🚀 Founder of [ParivartanX](https://parivartanx.com) & [HamaraTicket](https://hamaraticket.com)  
-#### 💻 Full-Stack Developer | DevOps Enthusiast | Cloud-Native Builder
+### 🚀 Founder of [ParivartanX](https://parivartanx.com) & [OneonOneAI](https://oneonone.parivartanx.com/)  
+#### 💻 Ai Engineer
 
 ---
 
